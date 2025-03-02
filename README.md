@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    ![Profile views](https://komarev.com/ghpvc/?username=aindri7&color=blue)
+    <img src="https://komarev.com/ghpvc/?username=aindri7&color=blue" alt="Profile Views"/>
 </p>
 
