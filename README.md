@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 #### Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aindri7&theme=dracula)
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=aindri7&color=blue" alt="Profile Views"/>
