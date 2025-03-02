@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **Wi-Fi signals are stronger in cafes than family bonds at home. ☕📶**
 
 ## GitHub Stats:
-![My Github stats](https://github-readme-stats.vercel.app/api?username=aindri7&show_icons=true&theme=radical)
+![Aindri's Github stats](https://github-readme-stats.vercel.app/api?username=aindri7&show_icons=true&theme=radical)
+
+## Activity Graph:
+[![Aindri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aindri7)](https://github.com/ashutosh00710/github-readme-activity-graph)
