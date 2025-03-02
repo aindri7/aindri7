@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 
 #### Tools & Platforms
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -74,6 +75,7 @@ Here are some ideas to get you started:
 #### Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=aindri7&color=blue" alt="Profile Views"/>
