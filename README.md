@@ -26,4 +26,11 @@ Here are some ideas to get you started:
 ![Aindri's Github stats](https://github-readme-stats.vercel.app/api?username=aindri7&show_icons=true&theme=radical)
 
 ## Activity Graph:
-[![Aindri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aindri7)](https://github.com/aindri7/github-readme-activity-graph)
+[![Aindri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aindri7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Dynamic Github Stats Card:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aindri7&show_icons=true&theme=tokyonight)
+
+
+
+![Profile views](https://komarev.com/ghpvc/?username=aindri7&color=blue)
