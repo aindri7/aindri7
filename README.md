@@ -33,4 +33,7 @@ Here are some ideas to get you started:
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=aindri7&color=blue)
+<p align="center">
+    ![Profile views](https://komarev.com/ghpvc/?username=aindri7&color=blue)
+</p>
+
